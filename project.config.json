@@ -1,0 +1,18 @@
+{
+  "miniprogramRoot": "miniprogram/",
+  "pluginRoot": "src/plugin/",
+  "compileType": "plugin",
+  "appid": "wxd894d0fb5dbb4c49",
+  "projectname": "test-plugin",
+  "description": "",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true
+  },
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {}
+}
